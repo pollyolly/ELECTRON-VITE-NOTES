@@ -1,4 +1,4 @@
-### ELECTRONJS-NOTES
+### ELECTRON-VITE-NOTES
 
 Installation
 ```vim
