@@ -10,8 +10,9 @@ $npm install
 ```
 #### Setup
 vite.config.ts
-
+```vim
 $npm install vite-tsconfig-paths
+```
 ```javascript
 import tsconfigPaths from 'vite-tsconfig-paths'
 export default defineConfig({
@@ -39,6 +40,6 @@ tsconfig.json
 }
 ```
 #### Run
-```
+```vim
 $npm run dev
 ```
