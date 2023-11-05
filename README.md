@@ -38,3 +38,7 @@ tsconfig.json
 ...
 }
 ```
+#### Run
+```
+$npm run dev
+```
