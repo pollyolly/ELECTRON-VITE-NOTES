@@ -32,7 +32,8 @@ tsconfig.json
         "src/*"
       ],
       "Components/*": ["./src/Components/*"],
-      "Interface": ["./src/Utilities/*"],
+      "Utilities/*": ["./src/Utilities/*"],
+      "Types/*": ["./src/Types/*"]
     },
 ...
 }
